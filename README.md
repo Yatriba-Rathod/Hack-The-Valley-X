@@ -34,8 +34,8 @@ This project is a full-stack web application for uploading, mapping, and merging
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ey-data-integration-dashboard.git
-   cd ey-data-integration-dashboard
+   git clone https://github.com/Yatriba-Rathod/Hack-The-Valley-X.git
+   cd Hack-The-Valley.git
    ```
 
 2. **Install backend dependencies**
@@ -55,7 +55,7 @@ This project is a full-stack web application for uploading, mapping, and merging
 1. **Start the backend server**
    ```bash
    cd backend
-   npm start
+   node server.js
    ```
 
 2. **Start the frontend**
@@ -87,9 +87,6 @@ frontend/
 - **Dataset 2**: Energy consumption data (energy usage, occupancy, etc.)
 - **Goal**: Analyze how weather conditions affect energy consumption by merging and mapping relevant columns.
 
-## License
-
-MIT
 
 ---
 
