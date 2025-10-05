@@ -35,7 +35,7 @@ This project is a full-stack web application for uploading, mapping, and merging
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Yatriba-Rathod/Hack-The-Valley-X.git
-   cd Hack-The-Valley.git
+   cd Hack-The-Valley-X
    ```
 
 2. **Install backend dependencies**
