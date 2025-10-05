@@ -1,6 +1,6 @@
 # CSVision
 
-This project is a full-stack web application for uploading, mapping, and merging two datasets (CSV files) to analyze relationships between weather conditions and energy consumption. Built for the EY Data Integration Challenge at Hack-The-Valley-X.
+This project is a full-stack web application for uploading, mapping, and merging two datasets (CSV files) to analyze relationships between two datasets. Built for the EY Data Integration Challenge at Hack-The-Valley-X.
 
 ## Features
 
